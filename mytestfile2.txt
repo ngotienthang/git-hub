@@ -1,0 +1,5 @@
+After switch to branch "firstbranch",
+	#git branch -a	//list out all of the branches.
+	#git checkout firstbranch	//switch to firstbranch. 
+
+in the firstbranch I create this file "mytestfile2.txt".
