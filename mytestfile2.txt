@@ -3,3 +3,7 @@ After switch to branch "firstbranch",
 	#git checkout firstbranch	//switch to firstbranch. 
 
 in the firstbranch I create this file "mytestfile2.txt".
+
+after merge firstbranch to master branch.
+___I modified in firstbranch: Hello mytestfile2 is modified
+in firstbranch.
